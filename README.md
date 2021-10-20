@@ -1,2 +1,2 @@
 # kubernetesclusterdeployment-
-used for deploying kubernetes las
+used for deploying kubernetes lab
